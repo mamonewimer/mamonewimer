@@ -1,7 +1,5 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="mamoneweimer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jo.linkedin.com/in/mamoneweimer?trk=profile-badge">Mamon Eweimer</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="mamoneweimer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jo.linkedin.com/in/mamoneweimer?trk=profile-badge">LinkedIn Profile</a></div>
               
-</script>
 
 
 <h1 align="center">Hi 👋, I'm Mamon Eweimer</h1>
@@ -22,7 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mamon-eweimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamon-eweimer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mamon-eweimer" target="blank">
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="mamoneweimer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jo.linkedin.com/in/mamoneweimer?trk=profile-badge">Mamon Eweimer</a></div>
+              
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamon-eweimer" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/profile.php?id=100008426493781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100008426493781" height="30" width="40" /></a>
 </p>
 
