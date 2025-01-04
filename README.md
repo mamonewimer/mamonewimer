@@ -23,8 +23,7 @@
 <a href=""https://jo.linkedin.com/in/mamoneweimer" target="blank">
 
               
-<img align="center" src= alt="mamon-eweimer" height="30" width="40" /></a>
-<a href="https://jo.linkedin.com/in/mamoneweimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://web.facebook.com/profile.php?id=100008426493781" height="30" width="40" /></a>
+ href="https://jo.linkedin.com/in/mamoneweimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://web.facebook.com/profile.php?id=100008426493781" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
