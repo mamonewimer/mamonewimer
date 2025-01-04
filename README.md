@@ -1,7 +1,9 @@
 <h3 align="center">Connect with me on LinkedIn:</h3>
 <p align="center">
 <div align="center" class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="mamoneweimer" data-version="v1"><a  href="https://jo.linkedin.com/in/mamoneweimer?trk=profile-badge">LinkedIn</a>
-<a href="www.yahoo.com"/a> 
+<a href="
+https://jo.linkedin.com/in/mamoneweimer?trk=profile-badge
+"/a> 
 <img src="https://media.licdn.com/dms/image/D5612AQFT_HsumZVDgg/article-cover_image-shrink_720_1280/0/1694181868068?e=2147483647&v=beta&t=UpG4bo-CukX0WEWk3xdQakgRc6jNojyuGz1yOXyxtnQ">
 </div>
 
