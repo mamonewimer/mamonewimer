@@ -1,5 +1,6 @@
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="mamoneweimer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jo.linkedin.com/in/mamoneweimer?trk=profile-badge">LinkedIn Profile</a></div>
-              
+<h3 align="left">Connect with me on LinkedIn:</h3>
+<p align="left">
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="mamoneweimer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jo.linkedin.com/in/mamoneweimer?trk=profile-badge">Mamon Eweimer</a></div>
 
 
 <h1 align="center">Hi 👋, I'm Mamon Eweimer</h1>
@@ -18,9 +19,7 @@
 
 - 📫 How to reach me **mamonewimer@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="mamoneweimer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jo.linkedin.com/in/mamoneweimer?trk=profile-badge">Mamon Eweimer</a></div>
+
               
 
 <h3 align="left">Languages and Tools:</h3>
