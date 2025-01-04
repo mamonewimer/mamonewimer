@@ -1,4 +1,8 @@
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mamoneweimer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jo.linkedin.com/in/mamoneweimer?trk=profile-badge">Mamon Eweimer</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="mamoneweimer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jo.linkedin.com/in/mamoneweimer?trk=profile-badge">Mamon Eweimer</a></div>
+              
+</script>
+
 
 <h1 align="center">Hi 👋, I'm Mamon Eweimer</h1>
 <h3 align="center">A passionate full stack developer from jordan  </h3>
